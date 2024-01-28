@@ -1,71 +1,94 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
+    "name": "Aditya Sugandhi",
+    "label": "Software Engineer",
     "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "email": "as22cq@fsu.edu",
+    "phone": "448-500-6857-4444",
+    "website": "https://adityasugandhi.github.io",
+    "summary": "Software Engineer with 3+ years of industry experience, specializing in designing & developing scalable software solutions.Proficient in a wide range of programming languages & technologies. Seeking a challenging role to leverage technical expertise & drive innovation.",
+    "location": { "address": "1835 West Call st", "postalCode": "32304", "city": "Tallahassee", "countryCode": "USA", "region": "Florida" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
+      { "network": "github", "username": "adityasugandhi", "url": "http://github.com/sugandhi" },
+      { "network": "linkedin", "username": "Aditya Sugandhi", "url": "http://linkedin.com/in/sugandhiaditya" },
       { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
       { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Software Engineering" },
+    { "name": "Machine Learning Modeling" },
+    { "name": "Data Analysis" },
+    { "name": "Problem Solving" },
+    { "name": "LLM's" }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "name": "Languages/Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Python","Spring" ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "name": "Toolsets/OS/Libraries",
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad","Jenkins","Ansible","AWS","Azure","GCP","Kubernetes","Docker","Jenkins","Ansible","AWS","Azure","GCP" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "Florida State University",
+      "area": "Computer Science (Spring 2024)",
+      "studyType": "Master's of Science",
+      "startDate": "2022-08-01",
       "endDate": "Present",
-      "courses": [
+      "courses": ["Data Mining","Data Communication","Advanced Database Systems","Cryptography","Advanced Operating Systems","Analytical Methods in Computer Science"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Florida State University (DSC)",
+      "position": "Research Assistant",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2023-01-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Assisting in Analysis of Oceano-Atmospheric Data over the Pacific Ocean & Gulf of Mexico and developing a Machine Learning Model to predict the weather patterns.", 
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Reprogrammed the Earth Oceanic Atmospheric Science (EOAS)/pyutils library by implementing a dynamic programming approach, reducing complexity from Exponential to Linear time.",
+        "Expedited data simulation and processing for various machine learning models utilized by peer researchers. Streamlined data processing on the server resulted in a significant 30% reduction in overall training time."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Aspire Systems",
+      "position": "Software Engineer",
+      "website": "https://www.aspiresys.com/",
+      "startDate": "2020-01-01",
+      "endDate": "2022-07-31",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Revamped software architecture for a 40% surge in online appointments and customer engagement at a leading UK-based Life Insurance Company. Employed Kafka, Redis, and NoSQL databases for efficient data processing.",
+        "Engineered 20 RESTful APIs for responsive patient data management and flexible interfaces. Collaborated on front-end enhancements, driving a 25% increase in user interaction." ,
+        "Implemented secure payment gateways (Stripe, PayPal) and robust Single Sign-On (SSO) for authentication.",
+        "Transformed issue resolution: strategic debugging, Splunk for real-time logs, and swift CI/CD with Jenkins, halving resolution time.",
+         "Deployed Spring Boot applications on AWS Elastic Beanstalk, optimizing patient data management & ensuring system performance.",
+         "Addressed varied client needs in occupational health, ensuring compliance and security, while crafting a robust solution with custom analytic modules for tailored insights by tapping into Kafka-streams.",
+        "Unleashed real-time insights via dynamic dashboards, elevating stakeholder empowerment. Transformed insurance dynamics, fortifying medical, life, and pet coverage with robust security. Spearheaded financial excellence with seamless Oracle integration, surpassing security standards.",
+        "Automated system refreshes through CI/CD pipelines for up-to-date technology & security standards."
+      ]
+    }
+    {
+      "company": "Web Developer",
+      "position": "Software Engineer",
+      "website": "https://www.aspiresys.com/",
+      "startDate": "2020-01-01",
+      "endDate": "2022-07-31",
+      "summary": "",
+      "highlights": [
+        "Innovated a PHP-centric design using the Laravel framework to enhance user interface interaction on a client co-work website.",
+        "Managed diverse CMS systems (Joomla, WordPress, Drupal), ensuring flexible procedures & guiding seamless content delivery." ,
+        "Successfully migrated Joomla versions, showcasing proficiency, problem-solving & policy adherence.",
+        "Automated workflows with SharePoint, reducing operational overhead by 45% & optimizing procedures for efficient collaboration.",
+         "Deployed Spring Boot applications on AWS Elastic Beanstalk, optimizing patient data management & ensuring system performance.",
+         "Addressed varied client needs in occupational health, ensuring compliance and security, while crafting a robust solution with custom analytic modules for tailored insights by tapping into Kafka-streams.",
+        "Optimized backend database management with PHP & Joomla, ensuring efficient processes, enhancing responsiveness & aligning with company policies",
       ]
     }
   ],
