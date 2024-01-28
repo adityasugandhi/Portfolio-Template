@@ -11,8 +11,8 @@
     "profiles": [
       { "network": "github", "username": "adityasugandhi", "url": "http://github.com/sugandhi" },
       { "network": "linkedin", "username": "Aditya Sugandhi", "url": "http://linkedin.com/in/sugandhiaditya" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "twitter", "username": "stranzersweb", "url": "http://twitter.com/changeme" },
+      { "network": "instagram", "username": "aditya.sugandhi", "url": "http://instagram.com/changeme" }
     ]
   },
   "interests": [
@@ -94,15 +94,19 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
+      "organization": "ACM Programming Club FSU", 
       "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "position": "Volunteer",
+      "startDate": "2022-05-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Volunteered as a mentor for the ACM Programming Club at FSU. Helped students with their projects and assignments.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Helped students with their projects and assignments.",
+        "Conducted workshops on various topics such as Git, GitHub, and Data Structures.",
+        "Simulated mock interviews for students to prepare them for their interviews.",
+        "Spearheaded workshops on various topics such as Git, GitHub, and Web Deployment."
+
+
       ]
     },
     {
@@ -119,7 +123,7 @@
       ]
     }
   ],
-  "awards": [
+  "Projects": [
     {
       "title": "B+ Scholarship",
       "date": "2013-Present",

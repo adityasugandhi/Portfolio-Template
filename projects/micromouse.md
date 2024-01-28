@@ -2,16 +2,16 @@
 layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
-title: "Micromouse"
-date: 2015
+title: "Network Simulation Chat Applicati"
+date: 2023
 published: true
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
+  - Data Communication
+  - Socket Programming, Data Structures(Hash Maps), Data/Bit Manipulation )
+  - Python
+summary: "Orchestrated integration of diverse elements from data & network link layers, encompassing Bridges, Routers, & Stations. Acquired
+expertise in socket connections & the proficient transfer of data frames among devices."
 ---
-
 <div class="text-center p-4">
   <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
   <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
